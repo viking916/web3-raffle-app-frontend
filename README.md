@@ -1,3 +1,7 @@
+Fullstack Web3 Raffle App - Frontend
+
+Coded while following ChainLink Hackathon code along session https://www.youtube.com/watch?v=8bMrko6iD9Q
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
